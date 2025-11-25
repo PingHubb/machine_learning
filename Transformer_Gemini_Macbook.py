@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt  # For plotting
 import time
 
 # =============================================================================
-# 1. GLOBAL CONSTANTS & CONFIG
+# 1. GLOBAL CONSTANTS & CONFIG :)
 # =============================================================================
 SENSOR_ROWS = 9  # 13 for elbow
 SENSOR_COLS = 10  # 10 for elbow
